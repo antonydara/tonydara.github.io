@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About Me"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://www.researchgate.net/profile/Antoine-Dara
   - title: "Publications"
     url: https://www.ncbi.nlm.nih.gov/myncbi/1Z95tLO5BPOQi/bibliography/public/
   #   url: /year-archive/
