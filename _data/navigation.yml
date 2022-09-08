@@ -5,6 +5,7 @@ main:
   - title: "About Me"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Publications"
+    url: https://www.ncbi.nlm.nih.gov/myncbi/1Z95tLO5BPOQi/bibliography/public/
   #   url: /year-archive/
   - title: "Research"
   #   url: /collection-archive/
